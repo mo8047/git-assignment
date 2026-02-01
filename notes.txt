@@ -1,0 +1,1 @@
+Thing I learned about git: how to initialize a repository, how to commit changes
